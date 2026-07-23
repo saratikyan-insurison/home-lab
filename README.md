@@ -1,2 +1,1 @@
-# home-lab
-Testing place
+# hambal-eicar-standard-antivirus-test-files
