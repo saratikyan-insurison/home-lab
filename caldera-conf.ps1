@@ -1,4 +1,4 @@
-$server="http://192.169.10.19:8888";
+$server="http://192.168.10.19:8888";
 $url="$server/file/download";
 $wc=New-Object System.Net.WebClient;
 $wc.Headers.add("platform","windows");
