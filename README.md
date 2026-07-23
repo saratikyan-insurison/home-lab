@@ -1,2 +1,1 @@
-# home-lab
-Testing place
+# liqehambalnoc-eicar-standard-antivirus-test-files
